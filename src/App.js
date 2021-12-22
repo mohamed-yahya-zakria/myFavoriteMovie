@@ -32,6 +32,3 @@ import css from './App.css'
 }
 
 export default App; 
-
-
-

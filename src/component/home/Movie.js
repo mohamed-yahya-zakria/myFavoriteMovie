@@ -78,6 +78,8 @@ class Movie extends Component {
       
     }
 }
+/* fetch data from reducer */
+/*movies instead of searchReducer Reducer folder > index */
 const mapStateToProps = state=>({
     loading: state.movies.loading,
     movie: state.movies.movie
